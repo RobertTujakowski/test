@@ -1,6 +1,6 @@
 # sklep z ceramiką
 
-## wszstkie ulepy wykonane ręcznie
+## wszystkie ulepy wykonane ręcznie
 
 **Pogrubiony** txt
 
